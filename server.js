@@ -20,7 +20,7 @@ app.use(
 const PORT = process.env.PORT || 8000;
 
 // MONGODB URI
-const mongoDBURI = `mongodb+srv://shahriar03:qZuFUDLE7MgdDElL@cluster0.uqmceaf.mongodb.net/sectorsdata`; //live
+const mongoDBURI = `mongodb+srv://testskil01:AqrlV6PruXeruMtb@cluster0.uqmceaf.mongodb.net/sectorsdatadb`; //live
 
 // MIDDLEWARES
 const middlwares = [
